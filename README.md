@@ -8,6 +8,7 @@ Kaggle dataset link: https://www.kaggle.com/datasets/akifkara217/fruit-segmentat
 
 ## Segmentation methods used in the project:
 1- Threshold
+
 2- Kmeans
 3- Watershed
 4- Sobel
@@ -115,7 +116,7 @@ Recall: 0.8805
 IoU (Intersection over Union): 0.4165
 F1-Score: 0.5687
 
-Example Image: 
+## Example Image: 
 ![Image](https://github.com/user-attachments/assets/243a9398-a4cb-43ed-8059-9311f56d3fb8)
 
 Prewitt & Sobel:
